@@ -21,7 +21,7 @@
 title: Anant Shah
 email: anantshah2026@u.northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:" 
-  "A famous quote by a 17th century poet" (translated to English, thus not losing any context at all).
+  "Pata nahi phir kab milenge. Agle hafte, agle saal ya phir agle janm mein. Par jab bhi milein, tum mujhe tumhari kahaani sunaana, mai tumhe apni kahaani bataunga."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://anantshah200.github.io # the base hostname & protocol for your site, e.g. http://example.com
 website : https://anantshah200.github.io
